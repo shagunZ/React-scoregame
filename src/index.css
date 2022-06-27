@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image:url('https://www.eye.co.jp/images/en/projects/sports/komae/2_l.jpg'); */
+  background-image:url('https://th.bing.com/th/id/OIP.BxIAcDlUSQbfTj7svEVZHgHaEo?pid=ImgDet&rs=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
 }
 
 code {
